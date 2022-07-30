@@ -26,37 +26,37 @@ In the following screenshots of our code, we show the results we obtained from t
 
 ![Alt text](/Resources/oversampling.png "imagen1")
 
-As we could see, the Balanced Accuracy Score of this model is ___. The confusion matrix and the Classification report are also shown, which...
+As we could see, the Balanced Accuracy Score of this model is 67.21%. The confusion matrix and the Classification report are also presented, showing a precision of 0.99 and a recall of 0.62.
 
 ### SMOTE - Oversampling
 
 ![Alt text](/Resources/smote.png "imagen2")
 
-This model has a Balanced Accuracy Score of ____. Likewise, the results obtained also show the confusion matrix and the Classification Report.
+This model has a Balanced Accuracy Score of 64.17%. The results obtained also show the confusion matrix and the Classification Report.
 
 ### Undersampling - Cluster Centroids
 
 ![Alt text](/Resources/undersampling.png "imagen3")
 
-As we can see, the Accuracy Score balance is lower than the previous models, with a percentage of ____.
+As we can see, the Accuracy Score balance is lower than the previous models, with a percentage of 54.31%.
 
 ### SMOTEENN - Combination -Over and Under- Sampling
 
 ![Alt text](/Resources/overunder.png "imagen4")
 
-The balance accuracy score of this algorithm is _____. The image also shows the confusion matrix and the Classification Report
+The balance accuracy score of this algorithm is 65.44%. The confusion matrix and the Classification Report are also in the picture.
 
 ### Balanced Random Forest Classifier
 
 ![Alt text](/Resources/randomforest.png "imagen5")
 
-This Supervised Machine Learning model has a Balanced Accuracy Score of 78.85%, which is a higher percentage than that shown by previous algorithms. We also show the confusion matrix and the Classified Report.
+This Supervised Machine Learning model has a Balanced Accuracy Score of 78.85%, which is a higher percentage than the previous algorithms. We also show the confusion matrix and the Classified Report.
 
 ### Easy Ensemble ADABoost Classifier
 
 ![Alt text](/Resources/easyensemble.png "imagen6")
 
-Finally, we developed this model whose Balanced Accuracy Score was the highest, with a percentage of 93.16%. The confusion matrix and the Classified Report also show more favorable metrics, since they have better precision and recall than the other algorithms used.
+Finally, we developed this model whose Balanced Accuracy Score was the highest, with a percentage of 93.16%. The confusion matrix and the Classified Report also show more favorable metrics, since they have better precision (0.99), recall (0.94), and F1 or harmony (0.97) than the other algorithms used.
 
 ###Summary
 
