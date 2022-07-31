@@ -30,7 +30,7 @@ As we could see, the Balanced Accuracy Score of this model is 67.21%. The confus
 - Recall High Risk: 72%
 - Recall Low Risk: 62%
 - Avg/Total Recall: 62%
-- Avg/Total f1: 76%
+- Avg/Total f1 score: 76%
 
 ### SMOTE - Oversampling
 
@@ -45,7 +45,7 @@ This model has a Balanced Accuracy Score of 64.17%. The results obtained also sh
 - Recall High Risk: 60%
 - Recall Low Risk: 68%
 - Avg/Total Recall: 68%
-- Avg/Total f1: 80%
+- Avg/Total f1 score: 80%
 
 ### Undersampling - Cluster Centroids
 
@@ -60,7 +60,7 @@ As we can see, the Accuracy Score Balance is lower than the previous models, wit
 - Recall High Risk: 40%
 - Recall Low Risk: 68%
 - Avg/Total Recall: 40%
-- Avg/Total f1: 57%
+- Avg/Total f1 score: 57%
 
 ### SMOTEENN - Combination -Over and Under- Sampling
 
@@ -75,7 +75,7 @@ The Balance Accuracy Score of this algorithm is 65.44%. The confusion matrix and
 - Recall High Risk: 74%
 - Recall Low Risk: 57%
 - Avg/Total Recall: 57
-- Avg/Total f1: 72%
+- Avg/Total f1 score: 72%
 
 ### Balanced Random Forest Classifier
 
@@ -90,7 +90,7 @@ This Supervised Machine Learning model has a Balanced Accuracy Score of 78.85%, 
 - Recall High Risk; 70%
 - Recall Low Risk: 87%
 - Avg/Total Recall: 87
-- Avg/Total f1: 93%
+- Avg/Total f1 score: 93%
 
 
 ### Easy Ensemble ADABoost Classifier
@@ -106,7 +106,7 @@ Finally, we developed this model whose Balanced Accuracy Score was the highest, 
 - Recall High Risk: 94%
 - Recall Low Risk: 92%
 - Avg/Total Recall: 92%
-- Avg/Total f1: 97%
+- Avg/Total f1 score: 97%
 
 ## Summary
 
