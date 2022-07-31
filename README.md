@@ -21,7 +21,7 @@ In the following screenshots, we show the results we obtained from the six Super
 
 ![Alt text](/Resources/oversampling.png "imagen1")
 
-As we could see, the Balanced Accuracy Score of this model is 67.21%. The confusion matrix and the Classification Report are also presented with the results showing below:
+As we could see, the Balanced Accuracy Score of this model is 67.21%. The confusion matrix and the Classification Report are also presented with the results displayed below:
 
 - Balance Accuracy Score: 67.21%
 - Precision High Risk: 1%
@@ -66,7 +66,7 @@ As we can see, the Accuracy Score Balance is lower than the previous models, wit
 
 ![Alt text](/Resources/overunder.png "imagen4")
  
-The Balance Accuracy Score of this algorithm is 65.44%. The confusion matrix and the Classification Report are also presented in the picture, showing the followin results:
+The Balance Accuracy Score of this algorithm is 65.44%. The confusion matrix and the Classification Report are also presented in the picture, showing the next results:
 
 - Balance Accuracy Score: 65.44%
 - Precision High Risk: 1%
@@ -97,7 +97,7 @@ This Supervised Machine Learning model has a Balanced Accuracy Score of 78.85%, 
 
 ![Alt text](/Resources/easyensemble.png "imagen6")
 
-Finally, we developed this model whose Balanced Accuracy Score was the highest, with a percentage of 93.16%. The confusion matrix and the Classified Report also show more favorable metrics, as we can see in the folloewing list:
+Finally, we developed this model whose Balanced Accuracy Score was the highest, with a percentage of 93.16%. The confusion matrix and the Classified Report also show more favorable metrics, as we can see in the following list:
 
 - Balance Accuracy Score: 93.16
 - Precision High Risk: 9%
@@ -110,6 +110,6 @@ Finally, we developed this model whose Balanced Accuracy Score was the highest, 
 
 ## Summary
 
-After developing, training, applying, and analyzing the different algorithms that we previously explained, we conclude that the supervised machine learning model with the best performance and the one that we suggest to be used is the Easy Ensemble ADABoost Classifier, not only because it has a better Balanced Accuracy Score, but also because in its Classification Report there is a balance between precision, sensitivity and f1, while in the other models the precision is overfitted and the recall was low. In addition, the confusion matrix and the classification report have more favorable metrics in terms of sensitivity, precision, and F1 score.
+After developing, training, applying, and analyzing the different algorithms that we previously explained, we conclude that the supervised machine learning model with the best performance and the one that we suggest to be used is the Easy Ensemble ADABoost Classifier, not only because it has a better Balanced Accuracy Score, but also because in its Classification Report there is a balance between precision, sensitivity, and f1 score, while in the other models the precision is overfitted and the recall was low. In addition, the confusion matrix and the classification report have more favorable metrics in terms of sensitivity, precision, and harmony.
 
-Another recommendation is to look for other models and do more tests to find better results.
+Another recommendation is to look for other models and do more training and tests in order to find better results.
