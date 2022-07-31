@@ -24,13 +24,13 @@ In the following screenshots, we show the results we obtained from the six Super
 As we could see, the Balanced Accuracy Score of this model is 67.21%. The confusion matrix and the Classification Report are also presented with the results displayed below:
 
 - Balance Accuracy Score: 67.21%
-- Precision High Risk: 1%
-- Precision Low Risk: 100%
-- Avg/Total Precision: 99%
-- Recall High Risk: 72%
-- Recall Low Risk: 62%
-- Avg/Total Recall: 62%
-- Avg/Total f1 score: 76%
+- Precision - High Risk: 1%
+- Precision - Low Risk: 100%
+- Avg/Total - Precision: 99%
+- Recall - High Risk: 72%
+- Recall - Low Risk: 62%
+- Avg/Total - Recall: 62%
+- Avg/Total - f1 score: 76%
 
 ### SMOTE - Oversampling
 
@@ -39,13 +39,13 @@ As we could see, the Balanced Accuracy Score of this model is 67.21%. The confus
 This model has a Balanced Accuracy Score of 64.17%. The results obtained also show the confusion matrix and the Classification Report:
 
 - Balance Accuracy Score: 64.17%
-- Precision High Risk: 1%
-- Precision Low Risk: 100%
-- Avg/Total Precision: 99%
-- Recall High Risk: 60%
-- Recall Low Risk: 68%
-- Avg/Total Recall: 68%
-- Avg/Total f1 score: 80%
+- Precision - High Risk: 1%
+- Precision - Low Risk: 100%
+- Avg/Total - Precision: 99%
+- Recall - High Risk: 60%
+- Recall - Low Risk: 68%
+- Avg/Total - Recall: 68%
+- Avg/Total - f1 score: 80%
 
 ### Undersampling - Cluster Centroids
 
@@ -54,13 +54,13 @@ This model has a Balanced Accuracy Score of 64.17%. The results obtained also sh
 As we can see, the Accuracy Score Balance is lower than the previous models, with a percentage of 54.31%. In the Classification Report, the high-risk precision is 1% and the low-risk precision is 100%. In addition, the high-risk recall is 40% and the low-risk recall is 68%.
 
 - Balance Accuracy Score: 54.31%
-- Precision High Risk: 1%
-- Precision Low Risk: 100%
-- Avg/Total Precision: 99%
-- Recall High Risk: 40%
-- Recall Low Risk: 68%
-- Avg/Total Recall: 40%
-- Avg/Total f1 score: 57%
+- Precision - High Risk: 1%
+- Precision - Low Risk: 100%
+- Avg/Total - Precision: 99%
+- Recall - High Risk: 40%
+- Recall - Low Risk: 68%
+- Avg/Total - Recall: 40%
+- Avg/Total - f1 score: 57%
 
 ### SMOTEENN - Combination -Over and Under- Sampling
 
@@ -69,13 +69,13 @@ As we can see, the Accuracy Score Balance is lower than the previous models, wit
 The Balance Accuracy Score of this algorithm is 65.44%. The confusion matrix and the Classification Report are also presented in the picture, showing the next results:
 
 - Balance Accuracy Score: 65.44%
-- Precision High Risk: 1%
-- Precision Low Risk: 100%
-- Avg/Total Precision: 99%
-- Recall High Risk: 74%
-- Recall Low Risk: 57%
-- Avg/Total Recall: 57
-- Avg/Total f1 score: 72%
+- Precision - High Risk: 1%
+- Precision - Low Risk: 100%
+- Avg/Total - Precision: 99%
+- Recall - High Risk: 74%
+- Recall - Low Risk: 57%
+- Avg/Total - Recall: 57
+- Avg/Total - f1 score: 72%
 
 ### Balanced Random Forest Classifier
 
@@ -84,13 +84,13 @@ The Balance Accuracy Score of this algorithm is 65.44%. The confusion matrix and
 This Supervised Machine Learning model has a Balanced Accuracy Score of 78.85%, which is a higher percentage than the previous algorithms. We also obtained the confusion matrix and the Classified Report. In short, we presented the principal metrics of the report:
 
 - Balance Accuracy Score: 78.88
-- Precision High Risk: 3%
-- Precision Low Risk: 100%
-- Avg/Total Precision: 99%
-- Recall High Risk; 70%
-- Recall Low Risk: 87%
-- Avg/Total Recall: 87
-- Avg/Total f1 score: 93%
+- Precision - High Risk: 3%
+- Precision - Low Risk: 100%
+- Avg/Total - Precision: 99%
+- Recall - High Risk; 70%
+- Recall - Low Risk: 87%
+- Avg/Total - Recall: 87
+- Avg/Total - f1 score: 93%
 
 
 ### Easy Ensemble ADABoost Classifier
@@ -100,13 +100,13 @@ This Supervised Machine Learning model has a Balanced Accuracy Score of 78.85%, 
 Finally, we developed this model whose Balanced Accuracy Score was the highest, with a percentage of 93.16%. The confusion matrix and the Classified Report also show more favorable metrics, as we can see in the following list:
 
 - Balance Accuracy Score: 93.16
-- Precision High Risk: 9%
-- Precision Low Risk: 100%
-- Avg/Total Precision: 99%
-- Recall High Risk: 94%
-- Recall Low Risk: 92%
-- Avg/Total Recall: 92%
-- Avg/Total f1 score: 97%
+- Precision - High Risk: 9%
+- Precision - Low Risk: 100%
+- Avg/Total - Precision: 99%
+- Recall - High Risk: 94%
+- Recall - Low Risk: 92%
+- Avg/Total - Recall: 92%
+- Avg/Total - f1 score: 97%
 
 ## Summary
 
