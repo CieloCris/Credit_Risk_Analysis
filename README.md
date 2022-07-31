@@ -5,15 +5,10 @@ In this project, we used Supervised Machine Learning models to predict credit ri
 Below we listed the Supervised Machine Learning Models that we used:
 
 - Naive Random Oversampling
-
 - SMOTE Oversampling
-
 - Undersampling (Cluster Centroids)
-
 - Combination (Over and Under) Sampling (SMOTEENN)
-
 - Balance Random Forest Classifier
-
 - Easy Ensemble ADABoost Classifier
 
 In order to complete our goal, we employed the following tools as resources: Jupyter Notebook, Python 3.9.7., Pandas, NumPy, SciPy, Scikit-learn, imbalanced-learn.
@@ -108,7 +103,7 @@ Finally, we developed this model whose Balanced Accuracy Score was the highest, 
 - Avg/Total Recall:
 
 
-###Summary
+## Summary
 
 After developing, training, applying, and analyzing the different algorithms that We previously explained, We conclude that the model with the best performance and the one that We suggested to be used is the Easy Ensemble ADABoost Classifier, not only because it has a better Balanced Accuracy Score, but also because in its Classification Report there is a balance between precision and sensitivity, while in the other models the precision is overfitted and the recall was low. In addition, the confusion matrix and the classification report have more favorable metrics in terms of sensitivity, precision, and F1 score.
 
